@@ -106,12 +106,13 @@ Para este proyecto, estructuré el comportamiento del sistema utilizando estánd
 #### A. Diagrama de Flujo del Proceso de Reserva (UML Actividad)
 Este diagrama modela visualmente el comportamiento lógico del sistema al momento de procesar una reserva. Contempla bifurcaciones críticas como la validación de la disponibilidad del karting, la verificación de instructores asignados y la aplicación automática del beneficio del programa de fidelidad.
 
-<img width="4159" height="6900" alt="diagrama_actividad_reserva" src="https://github.com/user-attachments/assets/898d10c2-06e8-434f-84df-8096e4e5aaf5" />
+<img width="5504" height="13536" alt="diagrama_clases" src="https://github.com/user-attachments/assets/ab08a4e0-b205-4c6a-b1e0-4697f8d142af" />
 
 
 #### B. Modelo de Dominio y Relaciones (UML Clases)
 Diseño de la estructura de datos que soporta la lógica del negocio, definiendo las entidades principales (Usuario, Reserva, Kart, Torneo, Inscripción, Pago), sus atributos y sus multiplicidades para guiar el desarrollo de la base de datos y la arquitectura del backend.
 
-<img width="5504" height="13536" alt="diagrama_clases" src="https://github.com/user-attachments/assets/ab08a4e0-b205-4c6a-b1e0-4697f8d142af" />
+<img width="1600" height="1153" alt="WhatsApp Image 2026-06-23 at 18 17 16" src="https://github.com/user-attachments/assets/c257a891-2696-40df-8f37-a72536f37f82" />
+
 
 *(Nota para el evaluador: En este repositorio se adjuntan los diagramas de flujo completos del sistema).*
